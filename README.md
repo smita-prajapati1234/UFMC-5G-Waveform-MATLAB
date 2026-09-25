@@ -33,9 +33,7 @@ The repository contains MATLAB studies covering:
 6. Subband analysis
 7. Filter length and stopband attenuation
 8. PAPR and PAPR versus filter length
-9. UFMC versus OFDM
-10. UFMC-NOMA
-11. PSD and waveform analysis
+9. PSD and waveform analysis
 
 ## Repository Structure
 
@@ -46,10 +44,7 @@ UFMC-5G-Waveform-MATLAB/
 ├── 03_Modulation_Analysis/  
 ├── 04_Filter_Analysis/  
 ├── 05_System_Parameters/  
-├── 06_PAPR_Analysis/  
-├── 07_UFMC_vs_OFDM/  
-├── 08_UFMC_NOMA/  
-├── Results/  
+├── 06_PAPR_Analysis/   
 └── Documentation/
 
 ## Software
@@ -98,16 +93,6 @@ She is involved in teaching, research, student project supervision, outcome-base
 - RIS-assisted wireless communication
 - Advanced multicarrier waveform design
 - 5G/6G communication system optimization
-
-## Selected Publications
-
-**1.** "ON THE SPECTRAL EFFICIENCY AND BER PERFORMANCE OF THE 5G NR POLAR-CODED WAVEFORMS IN THE MASSIVE MIMO SYSTEM"
-
-*Telecommunications and Radio Engineering*, 2025.
-
-**2.** "Joint 5G NR polar code-convolutional code design for massive MIMO-UFMC system"
-
-*Inderscience*, 2025.
 
 ## Academic Website
 
