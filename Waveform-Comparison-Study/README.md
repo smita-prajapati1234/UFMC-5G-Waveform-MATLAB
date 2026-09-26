@@ -21,4 +21,5 @@ Design Aspects and Performance Analysis of Multicarrier Waveform Contenders of 5
 Presented at the 1st International Conference on Innovation and Challenges in Engineering Sciences (ICICES-2023), organized by the Institute of Engineering and Technology, Devi Ahilya Vishwavidyalaya, Indore, on 17–18 March 2023.
 
 Award: Best Paper Award
-Artiecle Link: https://doi.org/10.21203/rs.3.rs-3022992/v1
+
+Article Link: https://doi.org/10.21203/rs.3.rs-3022992/v1
